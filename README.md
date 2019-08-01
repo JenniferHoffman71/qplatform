@@ -1,4 +1,5 @@
-Global Risk Intelligence Inc. (GRI) and Qlytics are pleased to provide the following response to RFI Number: 70SBUR19I00000038. 
+Team GRI is composed of Global Risk Intelligence Inc. (GRI) and Trident, Inc.. We are very pleased to provide the following response to RFI Number: 70SBUR19I00000038.  Our partnership arises from the need to guarantee the US Citizenship and Immigrations Services (USCIS) Office of Information Technology the  maximum possible benefit in terms of offering experience, Risk Management, Internal Controls, Technology, Artificial Intelligence and Machine Learning  competencies and professionalism  including projects within US governmental agencies. We would like to offer our expertise in offering Risk and Security Artificial Intelligence and Machine Learning that promotes the overall efficiency, effectiveness, accountability and integrity of the agency’s work.  
+
 
 Information provided within this repository outlines details on the Qlytics AI Development Platform, an overview on how the Qlytics Platform streamlines the AI/ML development process and how the platform meets and exceeds the governments requirements to; 
 1. Automate the use of AI/ML 
@@ -94,20 +95,20 @@ The following projects have been delivered using the Qlytics Platform:
 
 ### Project 1  -  AI/ML Driven Counter Party Risk Application
 Project Summary: Developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced language processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
-Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/counter-party-rick.md
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk
 
 ### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
 Project Summary: Developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Governance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced language processing framework PDF reports are automatically processed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledge-point from unstructured text documents.
  
-Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/ESG.md
+Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/esg.md
 
 ### Project 3  - Analyze Municipal Bond Documents with Advanced Natural Language Processing (NLP)
 Project Summary: Developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
-Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/Muni.md
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/muni-bonds
 
 ### Project 4  - Predict Fund Flows of Electronic Traded Funds (ETF) 
 Project Summary: Developed and delivered a ML based solution to track and predict fund flows of Electronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
-Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/ETF.md
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/direxion
 
 
 _________________________________________________________________________
